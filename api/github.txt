@@ -1,1 +1,2 @@
-全部权限token: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
+个人访问令牌（经典版）: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
+细粒度的个人访问令牌：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
